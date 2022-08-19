@@ -1,7 +1,7 @@
 # Data analist
 ### Ключевые компетенции:
 Python   
-Pandas
+Pandas   
 Numpy  
 SQL    
 Sklearn  
