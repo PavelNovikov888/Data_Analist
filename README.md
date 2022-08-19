@@ -2,8 +2,8 @@
 ### Ключевые компетенции:
 Python   
 Pandas
-Numpy
-SQL  
+Numpy  
+SQL    
 Sklearn  
 Power BI  
 ### Дополнительно:
