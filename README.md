@@ -1,23 +1,26 @@
 # Data analist
 ### Ключевые компетенции:
+Power BI  
+SQL  
+Tableau  
 Python   
 Pandas   
-Numpy  
-SQL    
-Sklearn  
-Power BI  
-### Дополнительно:
-Seaborne  
-Plotly  
-Comet-ml  
-VSCode
-### Инструменты:
-Git  
-Colab 
+Numpy   
+### Дополнительно:  
+А/В тестирование  
+Статистические гипотезы  
 Excel  
-RegEx  
-Markdown  
+RegEx   
 DAX  
+M  
+### Инструменты:  
+Seaborne  
+Plotly   
+Comet-ml  
+VSCode  
+Git  
+Colab  
+Markdown 
 ## Образование:
 Онлайн-школа SkillFactory 2021-2023 год  
 Курс "Профессия Data Science"   
